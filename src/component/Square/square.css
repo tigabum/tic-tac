@@ -1,0 +1,11 @@
+.square {
+  background-color: #fff;
+  width: 45px;
+  height: 45px;
+  border: 1px solid rgb(175, 175, 175);
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  cursor: pointer;
+}
